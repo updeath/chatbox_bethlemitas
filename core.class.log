@@ -1,0 +1,493 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A207B3E906E31C15392',
+    participant: undefined
+  },
+  messageTimestamp: 1722871271,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  keyword: 'key_5ac1e53e-b44c-476d-8a8c-7aa153db9051',
+  answer: 'Bienvenido(a) al Colegio Bethlemitas Pereira\n' +
+    '\n' +
+    'A continuación, te proporcionaremos información sobre nuestros servicios:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3d9e7961dd7fceea6dcd4552527ce04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4cd789b-cd27-4ec9-bd62-84d24e8b7dae',
+  keyword: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  answer: '*Digita el número asociado a la información que necesitas:*\n' +
+    '0. Información proceso de inscripcción/Certificados de estudio.\n' +
+    '1. Información de usuarios y contraseñas de Educacity y correos institucionales.\n' +
+    '2. Información de clses extracurriculares y cursos de preparación para sacramentos.\n' +
+    '3. Para comunicarte con rectoría y pastoral educativa.\n' +
+    '4. Para comunicarte con bienestar estudiantil y convivencia escolar.\n' +
+    '5. Para cominicarte con el área financiera (Economato).\n' +
+    '6. Para comunicarte con talento humano.\n' +
+    '7. Para comunicarte con el restaurante escolar y la empresa de transporte escolar.\n' +
+    '8. Para comunicarte con coordinación académica.\n' +
+    '9. PQRSF\n' +
+    'Escribe *salir* para cerrar el menu\n' +
+    '\n' +
+    '\n' +
+    '*📝Nota*: En caso de no obtener las respuestas deseada, puede volver a escribir "inicio" y luego especificar la acción que prefiera conocer.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1210ddc01f1963aaeaecab9f525ea725'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2DB764ED71F1A18B20',
+    participant: undefined
+  },
+  messageTimestamp: 1722871388,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d0d046ee-4d6e-4576-aadc-69a3bce229ab',
+  keyword: 'key_65c554db-a66f-433e-a7dc-22a8e6030c82',
+  answer: '*Proceso de inscripción:*\n' +
+    '*Uno.* Adquirir el formulario de inscripción, consignando $80.000 en la cuenta de ahorros # 126670071672 del Banco Davivienda.\n' +
+    '*Dos.* Enviar el soporte de pago del formulario de inscripción al WhatsApp 3176641476 con la información: nombres, apellidos, # de documento de identidad de la persona que generó el pago. Una vez el Colegio reciba el soporte y verifique la información, usted recibirá el formulario y los requisitos de Inscripción, luego, la Secretaria general se pondrá en contacto con usted. De ese modo, inicia el proceso de admisión.\n' +
+    '*Nota:* Es importante tener en cuenta que adquirir el formulario de inscripción no asegura el cupo del aspirante, éste depende del resultado de las pruebas académicas; una vez aprobadas, la Secretaria general llamará al aspirante para las entrevistas con Psico- orientación, Coordinación de convivencia y Rectoría.\n' +
+    '\n' +
+    '*Certificados de estidio:*\n' +
+    'Para solicitar un certificado de estudio, usted debe consignar $12.000 en la cuenta de ahorros # 126670071672 del Banco Davivienda y enviar al WhatsApp 3176641476 el soporte de pago con la información: nombre, apellidos y # de documento de identidad de la persona que generó el pago, el nombre completo y el grado del estudiante. Usted recibirá por este medio el certificado en un periodo de 5 días hábiles.\n' +
+    '\n' +
+    '\n' +
+    'Escribe *inicio* para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df4bcbc925cb3147d59b77add0d8b91f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A581F5BD8ABFAC9DADA',
+    participant: undefined
+  },
+  messageTimestamp: 1722871510,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  keyword: 'key_5ac1e53e-b44c-476d-8a8c-7aa153db9051',
+  answer: 'Bienvenido(a) al Colegio Bethlemitas Pereira\n' +
+    '\n' +
+    'A continuación, te proporcionaremos información sobre nuestros servicios:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3d9e7961dd7fceea6dcd4552527ce04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4cd789b-cd27-4ec9-bd62-84d24e8b7dae',
+  keyword: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  answer: '*Digita el número asociado a la información que necesitas:*\n' +
+    '0. Información proceso de inscripcción/Certificados de estudio.\n' +
+    '1. Información de usuarios y contraseñas de Educacity y correos institucionales.\n' +
+    '2. Información de clses extracurriculares y cursos de preparación para sacramentos.\n' +
+    '3. Para comunicarte con rectoría y pastoral educativa.\n' +
+    '4. Para comunicarte con bienestar estudiantil y convivencia escolar.\n' +
+    '5. Para cominicarte con el área financiera (Economato).\n' +
+    '6. Para comunicarte con talento humano.\n' +
+    '7. Para comunicarte con el restaurante escolar y la empresa de transporte escolar.\n' +
+    '8. Para comunicarte con coordinación académica.\n' +
+    '9. PQRSF\n' +
+    'Escribe *salir* para cerrar el menu\n' +
+    '\n' +
+    '\n' +
+    '*📝Nota*: En caso de no obtener las respuestas deseada, puede volver a escribir "inicio" y luego especificar la acción que prefiera conocer.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1210ddc01f1963aaeaecab9f525ea725'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5C63D991706CF1FBF3',
+    participant: undefined
+  },
+  messageTimestamp: 1722871547,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e5d66741-349a-4704-a29a-1cbb21102fcc',
+  keyword: 'key_7550b8ad-be99-4a73-a523-5a99d8e0e8f3',
+  answer: 'Si deseas comunicarte con nuestro coordinador de Talento humano, Johan Sebastián López Heredia, al WhatsApp o celular: 3182391793, al Teléfono Fijo: 3387829 extensión 107, o al e-mail: c.ghumana@bethlemitaspereira.edu.co\n' +
+    '\n' +
+    '\n' +
+    'Escribe *inicio* para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '65befa0f671cfd7ffd7d1907aa35dce6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A77E77F627F3E9B4AE5',
+    participant: undefined
+  },
+  messageTimestamp: 1722871575,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  keyword: 'key_5ac1e53e-b44c-476d-8a8c-7aa153db9051',
+  answer: 'Bienvenido(a) al Colegio Bethlemitas Pereira\n' +
+    '\n' +
+    'A continuación, te proporcionaremos información sobre nuestros servicios:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3d9e7961dd7fceea6dcd4552527ce04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4cd789b-cd27-4ec9-bd62-84d24e8b7dae',
+  keyword: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  answer: '*Digita el número asociado a la información que necesitas:*\n' +
+    '0. Información proceso de inscripcción/Certificados de estudio.\n' +
+    '1. Información de usuarios y contraseñas de Educacity y correos institucionales.\n' +
+    '2. Información de clses extracurriculares y cursos de preparación para sacramentos.\n' +
+    '3. Para comunicarte con rectoría y pastoral educativa.\n' +
+    '4. Para comunicarte con bienestar estudiantil y convivencia escolar.\n' +
+    '5. Para cominicarte con el área financiera (Economato).\n' +
+    '6. Para comunicarte con talento humano.\n' +
+    '7. Para comunicarte con el restaurante escolar y la empresa de transporte escolar.\n' +
+    '8. Para comunicarte con coordinación académica.\n' +
+    '9. PQRSF\n' +
+    'Escribe *salir* para cerrar el menu\n' +
+    '\n' +
+    '\n' +
+    '*📝Nota*: En caso de no obtener las respuestas deseada, puede volver a escribir "inicio" y luego especificar la acción que prefiera conocer.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1210ddc01f1963aaeaecab9f525ea725'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0560935D92E774A34A',
+    participant: undefined
+  },
+  messageTimestamp: 1722871579,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a44e31f8-5678-410c-ae41-349823c0a83f',
+  keyword: 'key_82dc9491-45da-43fd-ad75-640af3b65551',
+  answer: 'Si requieres información sobre el estado financiero de los estudiantes, pagos de matrícula, pensión y otros; puedes comunicarte al WhatsApp o celular: 3184395020, al Teléfono Fijo: 3387829 extensión 104 – 115 o al e-mail: tesoreria@bethlemitaspereira.edu.co\n' +
+    '\n' +
+    '\n' +
+    'Escribe *inicio* para regresar al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ca1197aa1b14f949d7aba047f86df46d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB17F5E30E65B7996CB',
+    participant: undefined
+  },
+  messageTimestamp: 1722875332,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Inicio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Inicio',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  keyword: 'key_5ac1e53e-b44c-476d-8a8c-7aa153db9051',
+  answer: 'Bienvenido(a) al Colegio Bethlemitas Pereira\n' +
+    '\n' +
+    'A continuación, te proporcionaremos información sobre nuestros servicios:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f3d9e7961dd7fceea6dcd4552527ce04'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b4cd789b-cd27-4ec9-bd62-84d24e8b7dae',
+  keyword: 'ans_0999a6d9-28c5-4dc9-9301-f02d6d20678b',
+  answer: '*Digita el número asociado a la información que necesitas:*\n' +
+    '0. Información proceso de inscripcción/Certificados de estudio.\n' +
+    '1. Información de usuarios y contraseñas de Educacity y correos institucionales.\n' +
+    '2. Información de clses extracurriculares y cursos de preparación para sacramentos.\n' +
+    '3. Para comunicarte con rectoría y pastoral educativa.\n' +
+    '4. Para comunicarte con bienestar estudiantil y convivencia escolar.\n' +
+    '5. Para cominicarte con el área financiera (Economato).\n' +
+    '6. Para comunicarte con talento humano.\n' +
+    '7. Para comunicarte con el restaurante escolar y la empresa de transporte escolar.\n' +
+    '8. Para comunicarte con coordinación académica.\n' +
+    '9. PQRSF\n' +
+    'Escribe *salir* para cerrar el menu\n' +
+    '\n' +
+    '\n' +
+    '*📝Nota*: En caso de no obtener las respuestas deseada, puede volver a escribir "inicio" y luego especificar la acción que prefiera conocer.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1210ddc01f1963aaeaecab9f525ea725'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573216735852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1A7D055723B48921D2',
+    participant: undefined
+  },
+  messageTimestamp: 1722875361,
+  pushName: 'Sebastian',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Salir',
+  from: '573216735852'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63060e6e-da91-4d38-82fb-f0760d9f085c',
+  keyword: 'key_92be1b01-18ce-43ab-8111-069855d88d83',
+  answer: 'Te agradecemos por utilizar nuestros servicios. Si en el futuro tienes más preguntas o necesitas asistencia, no dudes en contactarnos. ¡Que tengas un día excepcional!\n' +
+    '\n' +
+    'Si necesitas información, escribe *inicio*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d3d1153c10b1df40cbfedefb1dbdebb'
+}
